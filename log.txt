@@ -1,0 +1,3 @@
+Key.upKey.upKey.upKey.upKey.upKey.upKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceaudio.py
+hello
+gKey.ctrlccKey.ctrlcKey.ctrlvvvKey.ctrlcc
